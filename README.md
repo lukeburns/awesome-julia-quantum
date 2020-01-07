@@ -1,5 +1,5 @@
 # awesome-julia-quantum
-Just a list of quantum-related resources written in Julia
+Just an [awesome](http://awesome.re/) list of quantum-related resources written in Julia
 
 ## Simulation
 
