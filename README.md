@@ -3,8 +3,8 @@ Just a list of quantum-related resources written in Julia
 
 ## Simulation
 
-- [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) :: Library for the numerical simulation of closed as well as open quantum systems https://qojulia.org/ https://doi.org/10.1016/j.cpc.2018.02.004
-- [Yao.jl](https://github.com/QuantumBFS/Yao.jl) :: Extensible, Efficient Quantum Algorithm Design for Humans http://yaoquantum.org/ https://arxiv.org/abs/1912.10877
+- [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) :: Library for the numerical simulation of closed as well as open quantum systems [<img width="20px" src="/images/doi.png">](https://doi.org/10.1016/j.cpc.2018.02.004) https://qojulia.org/ 
+- [Yao.jl](https://github.com/QuantumBFS/Yao.jl) :: Extensible, Efficient Quantum Algorithm Design for Humans [<img width="20px" src="/images/arxiv.png">](https://arxiv.org/abs/1912.10877) http://yaoquantum.org/
 - [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) :: Unitary and Lindbladian evolution in Julia
 - [MonteCarlo.jl](https://github.com/crstnbr/MonteCarlo.jl) :: Classical and quantum Monte Carlo simulations in Julia
 - [LinQu.jl](https://github.com/YiqingZhouKelly/LinQu.jl) :: Julia library for quantum circuit simulation using tensor networks
@@ -23,7 +23,7 @@ Just a list of quantum-related resources written in Julia
 
 ## Miscellaneous
 
-- [QuantumInformation.jl](https://github.com/iitis/QuantumInformation.jl) :: A Julia package for numerical computation in quantum information theory https://doi.org/10.1371/journal.pone.0209358
+- [QuantumInformation.jl](https://github.com/iitis/QuantumInformation.jl) :: A Julia package for numerical computation in quantum information theory [<img width="20px" src="/images/doi.png">](https://doi.org/10.1371/journal.pone.0209358)
 - [QuantumTomography.jl](https://github.com/BBN-Q/QuantumTomography.jl) :: Julia package to perform quantum state and process tomography
 - [RandomQuantum.jl](https://github.com/BBN-Q/RandomQuantum.jl) :: Julia package for generating random quantum states and processes according to a number of natural distributions
 - [MathieuFunctions.jl](https://github.com/BBN-Q/MathieuFunctions.jl) :: Julia package for Mathieu Functions
